@@ -83,7 +83,7 @@ python main.py
 
 ## Support
 
-For support, you can contact NPone29#0000 via Discord.
+For support, you can contact npone29#0000 via Discord.
 
 ## CPNV school
 ![cpnv_logo](https://www.cpnv.ch/app/uploads/2018/05/logo.png)
