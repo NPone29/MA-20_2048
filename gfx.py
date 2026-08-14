@@ -1,7 +1,7 @@
 # Function : Script qui gère tout les processus visible du jeu
-# Author : Natan Humblet
-# Date : 02/04/2026
-# Version : 1.0.1 RELEASE
+# Author : NPone29
+# Date : 14/08/2026
+# Version : 1.0.5 RELEASE
 
 # Importation des modules nécessaires
 from tkinter import *
