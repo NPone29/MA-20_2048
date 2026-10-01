@@ -29,7 +29,7 @@ You can install the .exe file in two different ways:
 1. Open the CMD.
 2. Run the following command to download the executable:
 ```bash
-curl -L -o Space.2048.V1.0.exe https://github.com/NPone29/MA-20_2048_Humblet_Natan/releases/download/V1.0/Space.2048.V1.0.exe 
+curl -L -o Space.2048.V1.0.exe https://github.com/NPone29/MA-20_2048/releases/download/V1.0/Space.2048.V1.0.exe 
 ```
 
 ## Installation by downloading the file
